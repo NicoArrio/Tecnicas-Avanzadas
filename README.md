@@ -1,2 +1,1 @@
-# Tecnicas-Avanzadas
-Tecnicas Avanzadas de Progracion
+[![Presentaci-n-corporativa-profesional-para-startup-elegante-fondo-fotogr-fico-verde-turquesa.png](https://i.postimg.cc/9QbWLFw1/Presentaci-n-corporativa-profesional-para-startup-elegante-fondo-fotogr-fico-verde-turquesa.png)](https://postimg.cc/Bj8963g1)
