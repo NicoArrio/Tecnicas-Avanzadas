@@ -3,9 +3,9 @@
 ---
 ### Sobre el Proyecto:
 
--Un sistema de gestión es una herramienta esencial para cualquier negocio, y un restaurante no es una excepción.  En el competitivo mundo de los restaurantes, es esencial contar con herramientas que ayuden a optimizar la operación diaria del negocio. Un sistema de gestión puede ser la solución perfecta para lograrlo. Nuestro sistema de gestión “ChefCode” es una plataforma fácil de usar y altamente personalizable que puede ayudar a tu restaurante a aumentar su eficiencia y productividad, mejorar la experiencia del cliente y aumentar la rentabilidad.
+- Un sistema de gestión es una herramienta esencial para cualquier institución de salud, y un centro odontológico no es la excepción. En un entorno donde la precisión, la atención personalizada y la eficiencia son claves, contar con un software que optimice la operación diaria resulta fundamental. Nuestro sistema de gestión "OdontoSys" es una plataforma intuitiva y flexible diseñada para mejorar la administración integral de centros odontológicos.
 
--El software “ChefCode” incluirá características y funcionalidades como la gestión de pedidos, financiera, de horarios, de inventario. Además, herramientas de análisis en tiempo real y de informes para que los dueños de los restaurantes.
+- "DentiSoft" incluirá funcionalidades como la gestión de turnos, administración de pacientes, registro de tratamientos, control financiero, seguimiento de historias clínicas y emisión de presupuestos. Además, incorpora herramientas de reportes e indicadores clave para facilitar la toma de decisiones por parte del equipo directivo.
 
 ---
 
